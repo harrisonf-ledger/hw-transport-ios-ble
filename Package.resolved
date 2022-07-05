@@ -8,15 +8,6 @@
         "branch" : "multiplatform",
         "revision" : "6d40c52e2d3f5fe7508530adc18e2b9d60f5a950"
       }
-    },
-    {
-      "identity" : "starscream",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/daltoniam/Starscream",
-      "state" : {
-        "revision" : "df8d82047f6654d8e4b655d1b1525c64e1059d21",
-        "version" : "4.0.4"
-      }
     }
   ],
   "version" : 2
